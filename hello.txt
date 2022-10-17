@@ -1,4 +1,4 @@
 Hello Git!!!
+Hello Git!!! new add message!!
 Hello Git!!!
-Hello Git!!!
-Hello Git!!!
+Hello Git!!! 
