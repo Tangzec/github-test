@@ -3,3 +3,4 @@ Hello Git!!! new add message!!
 Hello Git!!! new add message again!!!
 Hello Git!!! new add message hot-fix !!
 Hello Git!!! 
+别人修改代码咯 ，请你先拉取最新代码再继续编写！！！
